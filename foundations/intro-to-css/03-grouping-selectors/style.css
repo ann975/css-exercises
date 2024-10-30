@@ -1,0 +1,15 @@
+.style-one{
+    background-color: black;
+    color: white;
+}
+
+.style-two{
+    background-color: yellow;
+}
+
+.style-one,
+.style-two{
+    font-size:28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+
+}
