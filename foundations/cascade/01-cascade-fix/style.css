@@ -37,6 +37,7 @@ body {
 }
 
 /*rule: last defined is winner */
+/*specificity: id higher than class */
 #confirm-button {
   background: green;
   color: white;
